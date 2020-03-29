@@ -11,9 +11,11 @@ With data extracted from the itunes data from Kaggle, this project explores the 
 Can we identify features and key trends that predict user ratings of apps? 
 
 **Task:**
+
 EDA and visualisation 
 
 **Key challenges:**
-- Engineering novel features to predict user app ratings (extracting language features from app description and name) 
-- Foreign apps 
 - Outliers 
+- Foreign apps 
+- Engineering novel features to predict user app ratings (extracting language features from app description and name) 
+
